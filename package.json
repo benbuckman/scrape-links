@@ -1,6 +1,6 @@
 {
   "name": "scrape-links",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scrape links recursively from a URL (CLI)",
   "main": "scrape-links.js",
   "repository": {

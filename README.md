@@ -3,7 +3,7 @@
 `npm install -g scrape-links`
 
 ```
-Usage: scrape-links --url URL --out FILE --max-depth N`
+Usage: scrape-links --url URL --out FILE --max-depth N
 Scrapes all links, recursively loading each found link on the same domain.
 
 Options:
